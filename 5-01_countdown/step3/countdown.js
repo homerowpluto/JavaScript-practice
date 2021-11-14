@@ -2,6 +2,7 @@ let countdown = function (due) {
   const now = new Date();
 
   const rest = Math.abs(due.getTime() - now.getTime());
+  // split date(ms) into understandable units (Y/m/d H:i:s)
   const sec = Math.floor(rest / 1000) % 60;
   const min = Math.floor(rest / 1000 / 60) % 60;
   const hours = Math.floor(rest / 1000 / 60 / 60) % 24;
