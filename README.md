@@ -12,3 +12,8 @@ based on book 「確かな力が身につくJavaScript「超」入門」
 内容はjQueryの基本、アニメーション、AJAX、JSON。
 1月：ch.7 「外部データを活用したアプリケーションに挑戦」p.268-303
 内容は最新記事表示、WebAPI使用、jsページネーション。
+
+# ABC
+https://atcoder.jp/home
+atcoder beginner contest log
+sing javascript
